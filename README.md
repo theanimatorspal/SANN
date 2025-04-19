@@ -51,13 +51,13 @@ Watch as neural networks evolve in real-time and generate trippy heatmaps. It's 
 
 ### PD Matrix View (Just vibes)
 
-<img src="https://github.com/theanimatorspal/SANN/assets/133136356/85f61daa-48b5-4a5f-9f44-9dc69407dbe9" width="100%">
+<img src="https://github.com/theanimatorspal/SANN/assets/133136356/85f61daa-48b5-4a5f-9f44-9dc69407dbe9" width="50%">
 
 ---
 
 ### Visualization Aftermath (Simulated Annealing finale)
 
-<img src="https://github.com/theanimatorspal/SANN/assets/133136356/89462ccb-865a-4ccb-a220-f38c808ad899" width="100%">
+<img src="https://github.com/theanimatorspal/SANN/assets/133136356/89462ccb-865a-4ccb-a220-f38c808ad899" width="50%">
 
 ---
 

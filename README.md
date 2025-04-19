@@ -1,6 +1,6 @@
 <h1 align="center">🧠 SANN</h1>
 <p align="center"><i>Simulated Annealing + Neural Network Visualizer — Painfully Educational AI Project</i></p>
-<p align="center"><b>Built with:</b> C++20 🔧 | Custom Graphics (JkrGUI) 🎨 | Raw Neural Chaos 💥</p>
+<p align="center"><b>Built with:</b> C++20, Lua 🔧 | Custom Graphics (JkrGUI) 🎨 | Raw Neural Chaos 💥</p>
 <p align="center">
   <img src="https://img.shields.io/badge/build-flaky-orange?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/neurons-overcooked-red?style=flat-square&logo=brainly" />
@@ -17,7 +17,7 @@
 This is a cursed AI visualizer that combines **Simulated Annealing** and **Backpropagation** with the raw unfiltered power of a custom graphics engine (JkrGUI).  
 Watch as neural networks evolve in real-time and generate trippy heatmaps. It's basically education, but with epilepsy warnings.
 
-> 🧪 Final semester AI project at IOE, Pulchowk Campus  
+> 🧪 3rd semester AI project at IOE, Pulchowk Campus  
 > 💾 ~10K lines of confused neurons and Vulkan hacks
 
 ---
@@ -67,9 +67,5 @@ Watch as neural networks evolve in real-time and generate trippy heatmaps. It's 
 # Clone the fever dream
 git clone https://github.com/theanimatorspal/SANN.git
 cd SANN
-
-# Build the neurons
-make
-
-# Run the AI simulator
-./SANN &> neuron_log.txt
+jkrgui (You must have jkrgui installed)
+```
